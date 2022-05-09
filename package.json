@@ -1,0 +1,19 @@
+{
+  "name": "rpm-cra-template",
+  "version": "1.0.0",
+  "description": "My Create React App template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitrobertpm/rpm-cra-template.git"
+  },
+  "author": "robertpm <grobertpm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitrobertpm/rpm-cra-template/issues"
+  },
+  "homepage": "https://github.com/gitrobertpm/rpm-cra-template#readme"
+}

@@ -1,0 +1,13 @@
+/* General styles for all headings, links, buttons, inputs and plain text */
+h1, h2, h3, h4, h5, h6
+	@include text(auto, auto, bold, initial)
+	font-family: $headings
+
+p, li, span
+	@include text(auto, auto, 300, initial)
+	font-family: $plainText
+
+a
+	@include text(initial, auto, 700, $color-link)
+	font-family: $plainText
+	text-decoration: none
